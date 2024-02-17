@@ -1,0 +1,45 @@
+2024-02-13 01:48:31.581 [info] 
+
+
+
+
+2024-02-13 01:48:31.581 [info] Extension host agent started.
+2024-02-13 01:48:31.583 [info] Started initializing default profile extensions in extensions installation folder. file:///home/starwar/.vscode-server/extensions
+2024-02-13 01:48:31.610 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/starwar/.vscode-server/extensions
+2024-02-13 01:48:31.862 [info] [127.0.0.1][ac037a15][ManagementConnection] New connection established.
+2024-02-13 01:48:32.669 [info] [127.0.0.1][a3109ee6][ExtensionHostConnection] New connection established.
+2024-02-13 01:48:32.710 [info] [127.0.0.1][a3109ee6][ExtensionHostConnection] <609> Launched Extension Host Process.
+2024-02-13 02:14:18.861 [info] Getting Manifest... github.copilot
+2024-02-13 02:14:20.783 [info] Installing extension: github.copilot
+2024-02-13 02:14:23.332 [info] Getting Manifest... github.copilot-chat
+2024-02-13 02:14:23.465 [info] Installing extension: github.copilot-chat github.copilot
+2024-02-13 02:14:24.592 [warning] Extension signature verification failed with error 'ENOENT': github.copilot-chat
+2024-02-13 02:14:24.908 [info] Extracted extension to file:///home/starwar/.vscode-server/extensions/github.copilot-chat-0.12.1: github.copilot-chat
+2024-02-13 02:14:24.916 [info] Renamed to /home/starwar/.vscode-server/extensions/github.copilot-chat-0.12.1
+2024-02-13 02:14:24.921 [info] Extracting extension completed. github.copilot-chat
+2024-02-13 02:14:25.928 [warning] Extension signature verification failed with error 'ENOENT': github.copilot
+2024-02-13 02:14:26.389 [info] Extracted extension to file:///home/starwar/.vscode-server/extensions/github.copilot-1.159.0: github.copilot
+2024-02-13 02:14:26.397 [info] Renamed to /home/starwar/.vscode-server/extensions/github.copilot-1.159.0
+2024-02-13 02:14:26.401 [info] Extracting extension completed. github.copilot
+2024-02-13 02:14:26.409 [info] Extension installed successfully: github.copilot-chat
+2024-02-13 02:14:26.409 [info] Extension installed successfully: github.copilot
+2024-02-13 02:22:04.492 [info] [127.0.0.1][19e5b871][ManagementConnection] New connection established.
+2024-02-13 02:22:04.788 [info] [127.0.0.1][d6b49717][ExtensionHostConnection] New connection established.
+2024-02-13 02:22:04.795 [info] [127.0.0.1][d6b49717][ExtensionHostConnection] <8953> Launched Extension Host Process.
+2024-02-13 02:22:43.160 [info] [127.0.0.1][ac037a15][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-13 02:22:43.289 [info] [127.0.0.1][a3109ee6][ExtensionHostConnection] <609> Extension Host Process exited with code: 0, signal: null.
+2024-02-13 02:53:13.506 [info] [127.0.0.1][19e5b871][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-13 02:53:13.758 [info] [127.0.0.1][d6b49717][ExtensionHostConnection] <8953> Extension Host Process exited with code: 0, signal: null.
+2024-02-13 02:53:17.616 [info] [127.0.0.1][8131adb8][ManagementConnection] New connection established.
+2024-02-13 02:53:19.116 [info] [127.0.0.1][1d1340e4][ExtensionHostConnection] New connection established.
+2024-02-13 02:53:19.132 [info] [127.0.0.1][1d1340e4][ExtensionHostConnection] <15801> Launched Extension Host Process.
+2024-02-13 02:53:23.211 [info] Getting Manifest... github.copilot
+2024-02-13 02:53:23.360 [info] Installing extension: github.copilot
+2024-02-13 02:53:25.812 [warning] Extension signature verification failed with error 'ENOENT': github.copilot
+2024-02-13 02:53:27.050 [info] Extracted extension to file:///home/starwar/.vscode-server/extensions/github.copilot-1.160.0: github.copilot
+2024-02-13 02:53:27.067 [info] Renamed to /home/starwar/.vscode-server/extensions/github.copilot-1.160.0
+2024-02-13 02:53:27.073 [info] Extracting extension completed. github.copilot
+2024-02-13 02:53:27.093 [info] Extension installed successfully: github.copilot
+2024-02-13 02:53:27.106 [info] Marked extension as uninstalled github.copilot-1.159.0
+2024-02-13 02:53:42.099 [info] [127.0.0.1][8131adb8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-13 02:53:42.446 [info] [127.0.0.1][1d1340e4][ExtensionHostConnection] <15801> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,16 @@
+2024-02-17 22:30:37.311 [info] 
+
+
+
+
+2024-02-17 22:30:37.336 [info] Extension host agent started.
+2024-02-17 22:30:37.482 [info] Deleted uninstalled extension from disk github.copilot /home/starwar/.vscode-server/extensions/github.copilot-1.160.0
+2024-02-17 22:30:37.483 [info] Deleted uninstalled extension from disk github.copilot-chat /home/starwar/.vscode-server/extensions/github.copilot-chat-0.12.1
+2024-02-17 22:30:37.492 [info] [127.0.0.1][a6a8dfc4][ManagementConnection] New connection established.
+2024-02-17 22:30:38.057 [info] [127.0.0.1][30dfa3f3][ExtensionHostConnection] New connection established.
+2024-02-17 22:30:38.071 [info] [127.0.0.1][30dfa3f3][ExtensionHostConnection] <519> Launched Extension Host Process.
+2024-02-18 01:33:03.430 [info] [127.0.0.1][b501eff0][ManagementConnection] New connection established.
+2024-02-18 01:33:04.181 [info] [127.0.0.1][1cfacc3d][ExtensionHostConnection] New connection established.
+2024-02-18 01:33:04.194 [info] [127.0.0.1][1cfacc3d][ExtensionHostConnection] <23480> Launched Extension Host Process.
+2024-02-18 01:35:26.475 [info] [127.0.0.1][a6a8dfc4][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-18 01:35:26.998 [info] [127.0.0.1][30dfa3f3][ExtensionHostConnection] <519> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,3 @@
+2024-02-13 02:15:53.510 [info] [auth] Invalid copilot token: missing token: 403 
+2024-02-13 02:15:53.512 [error] [default] Extension activation failed: "No access to GitHub Copilot found. You are currently logged in as AMLANSATPATHY."
+2024-02-13 02:15:53.762 [info] [auth] Invalid copilot token: missing token: 403 

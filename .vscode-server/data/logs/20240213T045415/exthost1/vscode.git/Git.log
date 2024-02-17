@@ -1,0 +1,46 @@
+2024-02-13 04:54:26.076 [info] Log level: Info
+2024-02-13 04:54:26.076 [info] Validating found git in: "git"
+2024-02-13 04:54:26.076 [info] Using git "2.34.1" from "git"
+2024-02-13 04:54:26.076 [info] > git rev-parse --show-toplevel [1294ms]
+2024-02-13 04:54:26.076 [info] > git rev-parse --git-dir --git-common-dir [109ms]
+2024-02-13 04:54:26.076 [info] Open repository: /home/starwar
+2024-02-13 04:54:26.117 [info] > git rev-parse --show-toplevel [18ms]
+2024-02-13 04:54:26.120 [info] > git config --get commit.template [31ms]
+2024-02-13 04:54:26.151 [info] No remotes found in the git config file.
+2024-02-13 04:54:26.154 [info] > git rev-parse --show-toplevel [13ms]
+2024-02-13 04:54:26.166 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2024-02-13 04:54:26.167 [warning] No such branch: master.
+2024-02-13 04:54:26.197 [info] > git status -z -uall [20ms]
+2024-02-13 04:54:26.197 [info] > git rev-parse --show-toplevel [33ms]
+2024-02-13 04:54:26.285 [info] > git rev-parse --show-toplevel [56ms]
+2024-02-13 04:54:26.300 [info] > git config --get commit.template [23ms]
+2024-02-13 04:54:26.309 [info] > git rev-parse --show-toplevel [14ms]
+2024-02-13 04:54:26.319 [info] No remotes found in the git config file.
+2024-02-13 04:54:26.334 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2024-02-13 04:54:26.334 [warning] No such branch: master.
+2024-02-13 04:54:26.766 [info] > git status -z -uall [424ms]
+2024-02-13 04:54:26.793 [info] > git rev-parse --show-toplevel [465ms]
+2024-02-13 04:54:26.849 [info] > git check-ignore -v -z --stdin [36ms]
+2024-02-13 04:54:26.851 [info] > git rev-parse --show-toplevel [26ms]
+2024-02-13 04:54:26.874 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-13 04:54:27.119 [info] > git rev-parse --show-toplevel [73ms]
+2024-02-13 04:54:27.145 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-13 04:54:28.960 [info] > git check-ignore -v -z --stdin [0ms]
+2024-02-13 04:54:30.951 [info] > git config --get commit.template [1ms]
+2024-02-13 04:54:30.960 [info] No remotes found in the git config file.
+2024-02-13 04:54:30.960 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-13 04:54:30.961 [warning] No such branch: master.
+2024-02-13 04:54:30.975 [info] > git status -z -uall [7ms]
+2024-02-13 04:54:35.439 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-13 04:54:36.012 [info] No remotes found in the git config file.
+2024-02-13 04:54:36.013 [info] > git config --get commit.template [9ms]
+2024-02-13 04:54:36.013 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-13 04:54:36.013 [warning] No such branch: master.
+2024-02-13 04:54:36.028 [info] > git status -z -uall [7ms]
+2024-02-13 04:54:36.971 [info] > git show --textconv :src/Counter.sol [15ms]
+2024-02-13 04:54:36.973 [info] > git ls-files --stage -- /home/starwar/src/Counter.sol [5ms]
+2024-02-13 04:54:41.057 [info] > git config --get commit.template [1ms]
+2024-02-13 04:54:41.066 [info] No remotes found in the git config file.
+2024-02-13 04:54:41.066 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-13 04:54:41.066 [warning] No such branch: master.
+2024-02-13 04:54:41.081 [info] > git status -z -uall [7ms]

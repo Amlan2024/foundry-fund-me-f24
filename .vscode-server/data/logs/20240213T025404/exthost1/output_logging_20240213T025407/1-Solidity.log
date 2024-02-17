@@ -1,0 +1,62 @@
+[Info  - 2:57:50 AM] Solidity by Nomic Foundation Starting ...
+[Info  - 2:57:51 AM] env: production
+[Info  - 2:57:51 AM] Client starting
+[Info  - 2:57:53 AM] Language server starting
+[Info  - 2:57:53 AM]   Release: hardhat-solidity@0.7.3
+[Info  - 2:57:53 AM]   Environment: production
+[Info  - 2:57:53 AM]   Telemetry Enabled: false
+[Info  - 2:57:53 AM]   Telemetry Tracking Id: 30985d39a9...
+[Info  - 2:57:53 AM]   Workspace Folders:
+[Info  - 2:57:53 AM]     solidity (file:///home/starwar/solidity)
+[Info  - 2:57:53 AM] Fetching latest solidity versions
+[Info  - 2:57:53 AM] Language server ready
+[Info  - 2:57:53 AM] [indexing] Found projects:
+[Info  - 2:57:53 AM] [indexing] -  Type: Foundry
+[Info  - 2:57:53 AM] [indexing]    Base path: /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24
+[Info  - 2:57:53 AM] [indexing]    Config file: /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/foundry.toml
+[Info  - 2:57:53 AM] [indexing] Initializing /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/foundry.toml
+[Info  - 2:57:54 AM] [indexing] Done /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/foundry.toml
+[Info  - 2:57:54 AM] [indexing] Scanning workspace folders for sol files
+[Info  - 2:57:54 AM] [indexing] Scan complete, 44 sol files found
+[Info  - 2:57:54 AM] [indexing] Analyzing 1 solidity files
+Downloading compiler 0.8.19
+[Info  - 2:58:18 AM] Telemetry enabled
+[Info  - 3:00:04 AM] Telemetry enabled
+[Info  - 3:02:09 AM] Telemetry enabled
+Downloading compiler 0.8.24
+Downloading compiler 0.8.1
+Downloading compiler 0.8.18
+Downloading compiler 0.8.18
+[Info  - 3:32:38 AM] Error formatting document file:///home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/script/DeploySimpleStorage.s.sol with prettier: Error: Comment "" was not printed. Please report this error!
+[Info  - 3:32:49 AM] Error formatting document file:///home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/script/DeploySimpleStorage.s.sol with prettier: Error: Comment "SPDX" was not printed. Please report this error!
+Downloading compiler 0.8.15
+[Info  - 3:40:16 AM] Error formatting document file:///home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/script/DeploySimpleStorage.s.sol with prettier: Error: missing ';' at 'contract' (7:0)
+    at Object.parse4 (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2049:1808)
+    at Object.parse4 [as parse] (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2049:3162)
+    at Object.parse$d [as parse] (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:1682:1897)
+    at coreFormat (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:1683:26195)
+    at formatWithCursor$1 (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:1687:1082)
+    at /home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:1795:12877
+    at Object.format (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:1795:13154)
+    at PrettyPrinter.format (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2935:1865)
+    at prettierFormat (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2939:5851)
+    at /home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2939:7295
+[Error - 3:42:21 AM] Cannot read properties of undefined (reading 'split')
+[Info  - 3:43:04 AM] Error formatting document file:///home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/script/DeploySimpleStorage.s.sol with prettier: RangeError: index parameter must be between >= 0 and <= number of children.
+    at SimpleStatementContext.getChild (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:1811:58657)
+    at ASTBuilder.visitSimpleStatement (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2048:84233)
+    at SimpleStatementContext.accept (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2048:47289)
+    at ASTBuilder.visit (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:1823:25827)
+    at ASTBuilder.visitStatement (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2048:84162)
+    at /home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2048:85014
+    at Array.map (<anonymous>)
+    at ASTBuilder.visitBlock (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2048:85002)
+    at ASTBuilder.visitFunctionDefinition (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2048:85812)
+    at FunctionDefinitionContext.accept (/home/starwar/.vscode-server/extensions/nomicfoundation.hardhat-solidity-0.7.3/server/out/index.js:2048:25698)
+[Info  - 3:47:37 AM] Telemetry enabled
+[Info  - 3:47:52 AM] Telemetry enabled
+[Info  - 3:48:04 AM] Telemetry enabled
+[Info  - 3:48:19 AM] Telemetry enabled
+[Info  - 3:48:28 AM] Telemetry enabled
+[Info  - 3:48:34 AM] Telemetry enabled
+[Info  - 3:48:43 AM] Telemetry enabled

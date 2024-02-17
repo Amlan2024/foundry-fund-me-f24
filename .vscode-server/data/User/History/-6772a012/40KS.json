@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.useLocalIp": true,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "solidity.telemetry": true,
+    "editor.formatOnSave": true
+}

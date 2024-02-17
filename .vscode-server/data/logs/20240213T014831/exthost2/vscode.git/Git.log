@@ -1,0 +1,106 @@
+2024-02-13 02:22:08.317 [info] Log level: Info
+2024-02-13 02:22:08.317 [info] Validating found git in: "git"
+2024-02-13 02:22:08.317 [info] Using git "2.34.1" from "git"
+2024-02-13 02:22:08.317 [info] > git rev-parse --show-toplevel [151ms]
+2024-02-13 02:22:08.317 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-13 02:35:57.555 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-13 02:35:57.564 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-13 02:35:57.575 [info] Open repository: /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24
+2024-02-13 02:35:57.589 [info] > git config --get commit.template [1ms]
+2024-02-13 02:35:57.600 [info] No remotes found in the git config file.
+2024-02-13 02:35:57.603 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-02-13 02:35:57.603 [warning] No such branch: master.
+2024-02-13 02:35:57.616 [info] > git status -z -uall [4ms]
+2024-02-13 02:35:57.637 [info] > git config --get commit.template [3ms]
+2024-02-13 02:35:57.667 [info] No remotes found in the git config file.
+2024-02-13 02:35:57.688 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [21ms]
+2024-02-13 02:35:57.688 [warning] No such branch: master.
+2024-02-13 02:35:57.698 [info] > git status -z -uall [1ms]
+2024-02-13 02:35:58.123 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-13 02:39:06.608 [info] No remotes found in the git config file.
+2024-02-13 02:39:06.609 [info] > git config --get commit.template [10ms]
+2024-02-13 02:39:06.609 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-13 02:39:06.609 [warning] No such branch: master.
+2024-02-13 02:39:06.618 [info] > git status -z -uall [0ms]
+2024-02-13 02:43:49.348 [info] > git config --get commit.template [1ms]
+2024-02-13 02:43:49.356 [info] No remotes found in the git config file.
+2024-02-13 02:43:49.356 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [0ms]
+2024-02-13 02:43:49.357 [warning] No such branch: master.
+2024-02-13 02:43:49.365 [info] > git status -z -uall [1ms]
+2024-02-13 02:46:06.243 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-13 02:46:06.344 [info] > git config --get commit.template [2ms]
+2024-02-13 02:46:06.353 [info] No remotes found in the git config file.
+2024-02-13 02:46:06.354 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-13 02:46:06.366 [info] > git status -z -uall [2ms]
+2024-02-13 02:46:07.617 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-13 02:46:20.930 [info] > git config --get commit.template [1ms]
+2024-02-13 02:46:20.939 [info] No remotes found in the git config file.
+2024-02-13 02:46:20.940 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-13 02:46:20.953 [info] > git status -z -uall [6ms]
+2024-02-13 02:46:21.466 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-13 02:46:21.475 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-13 02:46:21.478 [info] Open repository: /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/lib/forge-std
+2024-02-13 02:46:21.497 [info] > git config --get commit.template [9ms]
+2024-02-13 02:46:21.500 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [2ms]
+2024-02-13 02:46:21.514 [info] > git status -z -uall [6ms]
+2024-02-13 02:46:21.529 [info] > git config --get commit.template [2ms]
+2024-02-13 02:46:21.540 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2024-02-13 02:46:21.553 [info] > git status -z -uall [4ms]
+2024-02-13 02:46:22.037 [info] > git check-ignore -v -z --stdin [11ms]
+2024-02-13 02:46:22.064 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-13 02:46:22.074 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-13 02:46:22.078 [info] Open repository: /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/lib/forge-std/lib/ds-test
+2024-02-13 02:46:22.100 [info] > git config --get commit.template [9ms]
+2024-02-13 02:46:22.110 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2024-02-13 02:46:22.129 [info] > git status -z -uall [10ms]
+2024-02-13 02:46:22.144 [info] > git config --get commit.template [2ms]
+2024-02-13 02:46:22.155 [info] > git for-each-ref --format %(refname) %(objectname) %(*objectname) refs/tags [1ms]
+2024-02-13 02:46:22.164 [info] > git status -z -uall [2ms]
+2024-02-13 02:46:22.607 [info] > git check-ignore -v -z --stdin [0ms]
+2024-02-13 02:48:18.062 [info] > git check-ignore -v -z --stdin [5ms]
+2024-02-13 02:48:19.706 [info] > git show --textconv :script/Counter.s.sol [17ms]
+2024-02-13 02:48:19.709 [info] > git ls-files --stage -- /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/script/Counter.s.sol [3ms]
+2024-02-13 02:48:19.727 [info] > git cat-file -s df9ee8b02ce4de2a73465ce2cf005641152bac9c [2ms]
+2024-02-13 02:48:26.984 [info] > git config --get commit.template [5ms]
+2024-02-13 02:48:27.016 [info] No remotes found in the git config file.
+2024-02-13 02:48:27.029 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [14ms]
+2024-02-13 02:48:27.091 [info] > git status -z -uall [29ms]
+2024-02-13 02:48:31.316 [info] > git check-ignore -v -z --stdin [5ms]
+2024-02-13 02:48:32.358 [info] > git show --textconv :src/Counter.sol [22ms]
+2024-02-13 02:48:32.361 [info] > git ls-files --stage -- /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/src/Counter.sol [6ms]
+2024-02-13 02:48:32.388 [info] > git cat-file -s aded7997b0c359a8230744058a80043b99bf6857 [4ms]
+2024-02-13 02:48:35.602 [info] > git config --get commit.template [6ms]
+2024-02-13 02:48:35.633 [info] No remotes found in the git config file.
+2024-02-13 02:48:35.636 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-02-13 02:48:35.693 [info] > git status -z -uall [25ms]
+2024-02-13 02:48:37.929 [info] > git check-ignore -v -z --stdin [4ms]
+2024-02-13 02:48:39.741 [info] > git show --textconv :test/Counter.t.sol [36ms]
+2024-02-13 02:48:39.745 [info] > git ls-files --stage -- /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/test/Counter.t.sol [8ms]
+2024-02-13 02:48:39.780 [info] > git cat-file -s 54b724f7ae76648d64671d4119d85de8a95ec463 [7ms]
+2024-02-13 02:48:47.821 [info] No remotes found in the git config file.
+2024-02-13 02:48:47.823 [info] > git config --get commit.template [30ms]
+2024-02-13 02:48:47.825 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-02-13 02:48:47.873 [info] > git status -z -uall [19ms]
+2024-02-13 02:48:51.441 [info] > git show --textconv :.gitignore [19ms]
+2024-02-13 02:48:51.444 [info] > git ls-files --stage -- /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/.gitignore [4ms]
+2024-02-13 02:48:51.462 [info] > git cat-file -s 85198aaa55b84c0390b360ea2ba730087a9fcf49 [2ms]
+2024-02-13 02:48:53.345 [info] > git show --textconv :.gitmodules [19ms]
+2024-02-13 02:48:53.347 [info] > git ls-files --stage -- /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/.gitmodules [4ms]
+2024-02-13 02:48:53.368 [info] > git cat-file -s 888d42dcd903c00f4103f1ae558eb8d1b6e1ea8d [3ms]
+2024-02-13 02:48:55.763 [info] > git show --textconv :foundry.toml [29ms]
+2024-02-13 02:48:55.766 [info] > git ls-files --stage -- /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/foundry.toml [5ms]
+2024-02-13 02:48:55.799 [info] > git cat-file -s 25b918f9c9a96afb107fd052f6aa5cbacc3d5111 [4ms]
+2024-02-13 02:49:45.774 [info] > git show --textconv :src/SimpleStorage.sol [30ms]
+2024-02-13 02:49:45.781 [info] > git ls-files --stage -- /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/src/SimpleStorage.sol [10ms]
+2024-02-13 02:49:45.924 [info] > git check-ignore -v -z --stdin [3ms]
+2024-02-13 02:49:46.457 [info] No remotes found in the git config file.
+2024-02-13 02:49:46.463 [info] > git config --get commit.template [33ms]
+2024-02-13 02:49:46.465 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-02-13 02:49:46.510 [info] > git status -z -uall [21ms]
+2024-02-13 02:52:09.305 [info] No remotes found in the git config file.
+2024-02-13 02:52:09.307 [info] > git config --get commit.template [35ms]
+2024-02-13 02:52:09.310 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-13 02:52:09.368 [info] > git status -z -uall [25ms]
+2024-02-13 02:52:58.484 [info] > git show --textconv :foundry.toml [16ms]
+2024-02-13 02:52:58.486 [info] > git ls-files --stage -- /home/starwar/solidity/foundry_f24/foundry-simple-storage-f24/foundry.toml [3ms]
+2024-02-13 02:52:58.502 [info] > git cat-file -s 25b918f9c9a96afb107fd052f6aa5cbacc3d5111 [2ms]

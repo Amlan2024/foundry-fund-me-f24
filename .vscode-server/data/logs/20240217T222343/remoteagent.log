@@ -1,0 +1,27 @@
+2024-02-17 22:23:43.063 [info] 
+
+
+
+
+2024-02-17 22:23:43.087 [info] Extension host agent started.
+2024-02-17 22:23:43.203 [info] [127.0.0.1][07476efe][ManagementConnection] New connection established.
+2024-02-17 22:23:43.784 [info] [127.0.0.1][4401bca3][ExtensionHostConnection] New connection established.
+2024-02-17 22:23:43.796 [info] [127.0.0.1][4401bca3][ExtensionHostConnection] <504737> Launched Extension Host Process.
+2024-02-17 22:23:48.695 [info] Getting Manifest... github.copilot
+2024-02-17 22:23:48.696 [info] Getting Manifest... github.copilot-chat
+2024-02-17 22:23:48.948 [info] Installing extension: github.copilot
+2024-02-17 22:23:48.962 [info] Installing extension: github.copilot-chat
+2024-02-17 22:23:52.143 [warning] Extension signature verification failed with error 'ENOENT': github.copilot-chat
+2024-02-17 22:23:52.453 [info] Extracted extension to file:///home/starwar/.vscode-server/extensions/github.copilot-chat-0.12.2: github.copilot-chat
+2024-02-17 22:23:52.458 [info] Renamed to /home/starwar/.vscode-server/extensions/github.copilot-chat-0.12.2
+2024-02-17 22:23:52.461 [info] Extracting extension completed. github.copilot-chat
+2024-02-17 22:23:52.469 [info] Extension installed successfully: github.copilot-chat
+2024-02-17 22:23:52.476 [info] Marked extension as uninstalled github.copilot-chat-0.12.1
+2024-02-17 22:23:52.632 [warning] Extension signature verification failed with error 'ENOENT': github.copilot
+2024-02-17 22:23:53.085 [info] Extracted extension to file:///home/starwar/.vscode-server/extensions/github.copilot-1.162.0: github.copilot
+2024-02-17 22:23:53.099 [info] Renamed to /home/starwar/.vscode-server/extensions/github.copilot-1.162.0
+2024-02-17 22:23:53.102 [info] Extracting extension completed. github.copilot
+2024-02-17 22:23:53.131 [info] Extension installed successfully: github.copilot
+2024-02-17 22:23:53.141 [info] Marked extension as uninstalled github.copilot-1.160.0
+2024-02-17 22:24:25.382 [info] [127.0.0.1][07476efe][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-17 22:24:25.504 [info] [127.0.0.1][4401bca3][ExtensionHostConnection] <504737> Extension Host Process exited with code: 0, signal: null.
